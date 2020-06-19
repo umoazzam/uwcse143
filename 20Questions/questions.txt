@@ -1,0 +1,14 @@
+Q:
+Does it ring?
+A:
+phone
+Q:
+Do you eat with it?
+Q:
+Can you cut with it?
+A:
+knife
+A:
+Fork
+A:
+computer
